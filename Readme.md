@@ -95,7 +95,7 @@ Correção precisa do comportamento do botão `=` em operações sequenciais.
 
 ## 🔗 Links
 
-- 🔹 **Demo Online:** [Ver no Netlify](https://seusite-calculadora.netlify.app)  
+- 🔹 **Demo Online:** [Ver no Netlify](https://calculadorasalaula.netlify.app/)  
 - 🔹 **Repositório GitHub:** [github.com/gilsonjoaoBR/calculadora](https://github.com/gilsonjoaoBR/calculadora)
 
 ---
